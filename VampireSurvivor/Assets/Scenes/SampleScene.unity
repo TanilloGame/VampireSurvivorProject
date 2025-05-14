@@ -455,8 +455,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afe7f5cb0f295a142a8f3445be278af9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyPrefabA: {fileID: 0}
-  enemyPrefabB: {fileID: 0}
+  enemy1Prefab: {fileID: 5890007977610202768, guid: d70111a481c3bf14d9b148a25c0c9bd0, type: 3}
+  enemy2Prefab: {fileID: 5787336309995737518, guid: 8feb70fb48c6c9a4bb4c2e10c3216d7a, type: 3}
+  enemy1Pool: []
+  enemy2Pool: []
 --- !u!4 &972285510
 Transform:
   m_ObjectHideFlags: 0
