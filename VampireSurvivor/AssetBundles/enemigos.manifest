@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.25f1
+CRC: 2005399388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29499c5ff36c10bd40e147d2f26689d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cefd4a547e217028529b6a8dea93f186
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8a52bf9a8dcbebd691397210133641dc
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7a3b252f752eac41b947f7a409d8782, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefab/EnemyB.prefab
+- Assets/Prefab/EnemyA.prefab
+Dependencies: []
